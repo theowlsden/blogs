@@ -1,8 +1,12 @@
 # TDD, a very non technical intro
 
 Created: Apr 13, 2021 5:39 PM
-Last Updated: Apr 13, 2021 11:10 PM
+
+Last Updated: Apr 13, 2021
+
 Tags: devops, beginner, tbd
+
+Cover Image URL: https://unsplash.com/photos/qDY9ahp0Mto
 
 As I am finishing my degree in ICT, I had to do an internship at an ICT company. Of course I am not interested in networking so I decided to apply at a local development company: Ictual N.V. After some talks to get to know the company and their products it was time to decide on an internship assignment. I choose the path of least resistance and decided to work on a web application, a portal for one of their products. Web dev is what I was doing at that time for a year so I was pretty comfortable with the choice of assignment. Then we started discussing their requirements for the assignment and they hit me with this: "This portal should be developed in accordance with the team's workflow, it should be developed according to Test Driven Development."
 
