@@ -1,5 +1,5 @@
 # TheOwlsDen blogs
-Welcome to my blog posts repo. In this repository you will find all the blog posts that I published about the projects I am working on. Besides that I post about knowledge I want to share too (TIL discussion). In the discussion folder you will find the discussion topics I posted on [dev.to](https://dev.to/theowlsden). 
+Welcome to my blog posts repo. In this repository you will find all the blog posts that I published about the projects I am working on. Besides that I post about knowledge I want to share too (TIL folder). In the discussion folder you will find the discussion topics I posted on [dev.to](https://dev.to/theowlsden). 
 
 ## My post template
 Do you want to start writing and posting? Below is the template I use to draft my posts.
